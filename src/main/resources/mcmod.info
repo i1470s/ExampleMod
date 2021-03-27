@@ -1,0 +1,15 @@
+[
+{
+  "modid": "example",
+  "name": "Example",
+  "description": "Example Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/i1470s/examplemod",
+  "updateUrl": "",
+  "authorList": ["Brayden Viana"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
